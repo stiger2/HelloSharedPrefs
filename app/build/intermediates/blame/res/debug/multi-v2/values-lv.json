@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\cstuser\\Desktop\\HelloSharedPrefs\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-lv\\values-lv.xml",
+            "outputFile": "/Users/user/AndroidStudioProjects/HelloSharedPrefs/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-lv/values-lv.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\cstuser\\.gradle\\caches\\transforms-2\\files-2.1\\c8f65b1c69b2d454cc803f79a546dae7\\res\\values-lv\\values-lv.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-2/files-2.1/3076da877e000b390ccc0981276d3f51/res/values-lv/values-lv.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\cstuser\\.gradle\\caches\\transforms-2\\files-2.1\\f59928f7e45ff51fcb2d248800038a44\\res\\values-lv\\values-lv.xml",
+                    "source": "/Users/user/.gradle/caches/transforms-2/files-2.1/929818011cbb942d06f20a1d4ca83bfc/res/values-lv/values-lv.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
